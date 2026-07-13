@@ -1,0 +1,10 @@
+
+
+# Pinned recommended dependencies for PyProbe
+# Optional packages enable richer functionality (scapy: raw packets, rich: UI)
+scapy==2.4.5
+rich==13.5.2
+requests==2.31.0
+dnspython==2.3.0
+paramiko==3.4.0
+
